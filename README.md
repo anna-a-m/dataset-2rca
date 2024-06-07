@@ -1,6 +1,6 @@
 # 2RCa - Russian Conversational Context Rewrite dataset
 
-This dataset ia based on the TolokaPersonaChatDataset (available at https://toloka.ai/datasets/). 2RCA aims at providing data on ellipsis and anaphora resolved rewrites from daily coversations in Russian. Total length in dialogues is **1048**, total length in turns is **5541**.
+This dataset ia based on the TolokaPersonaChatDataset (available at https://toloka.ai/datasets/). 2RCa aims at providing data on ellipsis and anaphora resolved rewrites from daily coversations in Russian. Total length in dialogues is **1048**, total length in turns is **5541**.
 
 Example of data:
 
