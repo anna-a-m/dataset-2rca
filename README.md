@@ -1,6 +1,6 @@
 # 2RCa - Russian Conversational Context Rewrite dataset
 
-This dataset ia based on the TolokaPersonaChatDataset (available at https://toloka.ai/datasets/). 2RCA aims at providing data on ellipsis and anaphora resolved rewrites from daily coversations in Russian. Total length in dialogues is **1048**, total length in turns is **5541**.
+This dataset ia based on the TolokaPersonaChatDataset (available at https://toloka.ai/datasets/). 2RCa aims at providing data on ellipsis and anaphora resolved rewrites from daily conversations in Russian. Total length in dialogues is **1048**, total length in turns is **5541**.
 
 Example of data:
 
@@ -18,3 +18,5 @@ Example of data:
     'Rewrite': 'Ты мечтаешь выпустить сборник программ? А я работаю продавцом. И мой муж продавец.'
    }
 ```
+
+Model pretraining code and Restoration F-Score implementation is available here - ```models/model_training_evaluation.ipynb```
